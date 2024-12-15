@@ -68,6 +68,8 @@ This repository contains the Amazon Sales Analysis project, which involves analy
 4. **Product Performance**:
    - Cosmetics and Clothes were the highest revenue-generating categories.
    - Household and Office Supplies had steady profit margins.
+5. **My Project Work**
+   [AMAZON_SALES_ANALYSIS_BY_ANISHA_PAUL.zip](https://github.com/user-attachments/files/18139694/AMAZON_SALES_ANALYSIS_BY_ANISHA_PAUL.zip)
 
 ---
 
