@@ -2,6 +2,8 @@
 
 This repository contains the Amazon Sales Analysis project, which involves analyzing sales data using **Power BI**. The project focuses on extracting, cleaning, and visualizing data from a CSV file to uncover sales trends and generate insights. All processes, from data extraction to visualization, are carried out within Power BI.
 
+ **My Project Work**
+   [AMAZON_SALES_ANALYSIS_BY_ANISHA_PAUL.zip](https://github.com/user-attachments/files/18139694/AMAZON_SALES_ANALYSIS_BY_ANISHA_PAUL.zip)
 ---
 
 ## Project Structure
@@ -68,8 +70,6 @@ This repository contains the Amazon Sales Analysis project, which involves analy
 4. **Product Performance**:
    - Cosmetics and Clothes were the highest revenue-generating categories.
    - Household and Office Supplies had steady profit margins.
-5. **My Project Work**
-   [AMAZON_SALES_ANALYSIS_BY_ANISHA_PAUL.zip](https://github.com/user-attachments/files/18139694/AMAZON_SALES_ANALYSIS_BY_ANISHA_PAUL.zip)
 
 ---
 
@@ -81,10 +81,17 @@ This project demonstrates the power of **Power BI** in enabling efficient sales 
 
 ## Project 
 
-1.![HOME](https://github.com/user-attachments/assets/dc5818ce-90aa-4eb4-8e6c-4c60466a7baf)
-2.![DASHBOARD](https://github.com/user-attachments/assets/d06f74c1-b398-449c-9831-71c838ae280f)
-3.![PERFORMANCE](https://github.com/user-attachments/assets/d164d2c8-80c8-4d2d-aa7a-ff1b3cf08147)
-4.![PRODUCTS](https://github.com/user-attachments/assets/7728822b-2a38-4cbf-a93e-bbf821174a6c)
+1.
+![HOME](https://github.com/user-attachments/assets/dc5818ce-90aa-4eb4-8e6c-4c60466a7baf)
+
+2.
+![DASHBOARD](https://github.com/user-attachments/assets/d06f74c1-b398-449c-9831-71c838ae280f)
+
+3.
+![PERFORMANCE](https://github.com/user-attachments/assets/d164d2c8-80c8-4d2d-aa7a-ff1b3cf08147)
+
+4.
+![PRODUCTS](https://github.com/user-attachments/assets/7728822b-2a38-4cbf-a93e-bbf821174a6c)
 
 
 ---
