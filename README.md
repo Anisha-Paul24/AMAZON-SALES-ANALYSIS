@@ -11,7 +11,7 @@ This repository contains the Amazon Sales Analysis project, which involves analy
     |-- amazon_sales_data.csv         # Input dataset (CSV format)
 |-- Visualizations/
     |-- monthly_sales_trend.png       # Monthly sales trend visualization
-    |-- yearly_sales.png              # Yearly sales bar chart
+    |-- yearly_sales.png              # Yearly sales line graph
 |-- Reports/
     |-- Amazon_Sales_Analysis.pbix    # Power BI project file
 |-- README.md                         # Overview and usage details
@@ -41,10 +41,13 @@ This repository contains the Amazon Sales Analysis project, which involves analy
 ## Visualizations
 
 1. **Monthly Sales Trend**
-   ![Monthly Sales Trend](Visualizations/monthly_sales_trend.png)
+   ![Monthly Trend](https://github.com/user-attachments/assets/704e328d-9f83-4613-ab63-1bd161f1d648)
+
+
 
 2. **Yearly Sales Bar Chart**
-   ![Yearly Sales](Visualizations/yearly_sales.png)
+   ![Yearly Trend](https://github.com/user-attachments/assets/5af9a47f-9aa4-446e-98fc-fde9d4a8b710)
+
 
 ---
 
@@ -76,7 +79,10 @@ This project demonstrates the power of **Power BI** in enabling efficient sales 
 
 ## Project 
 
-1.![PRODUCTS](https://github.com/user-attachments/assets/5c4fbd71-71ee-4e0f-a7a4-f95f5e85fdf9)
+1.![HOME](https://github.com/user-attachments/assets/dc5818ce-90aa-4eb4-8e6c-4c60466a7baf)
+2.![DASHBOARD](https://github.com/user-attachments/assets/d06f74c1-b398-449c-9831-71c838ae280f)
+3.![PERFORMANCE](https://github.com/user-attachments/assets/d164d2c8-80c8-4d2d-aa7a-ff1b3cf08147)
+4.![PRODUCTS](https://github.com/user-attachments/assets/7728822b-2a38-4cbf-a93e-bbf821174a6c)
 
 
 ---
